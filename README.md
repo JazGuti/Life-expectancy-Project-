@@ -36,13 +36,16 @@ the top and the bottom of the dataframe.
 
 ● All identifier variables follow the industry standard data type.
 
+
 ● Data has been cleaned. Duplicate data, missing data, and mixed-type columns have
 been checked and addressed.
+
 ● At least 4 types of data visualizations have been generated to communicate insights
 to stakeholders. Visualizations are clearly labeled.
 
 ● Data ethics have been kept in mind when dealing with data, especially in regards to
 customer information.
+
 ● Data is finally put in a tableau storyboard using correlation graphs, bar graphs and choropleth grapghs to anser 
 the defining question with a conclucion.
 
