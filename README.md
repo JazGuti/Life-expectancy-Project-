@@ -32,10 +32,10 @@ descriptive comments.
 
 ● Descriptive checks have been conducted after importation of data, such as checking
 the top and the bottom of the dataframe.
+
 ● All column names are self-explanatory.
 
 ● All identifier variables follow the industry standard data type.
-
 
 ● Data has been cleaned. Duplicate data, missing data, and mixed-type columns have
 been checked and addressed.
@@ -48,4 +48,6 @@ customer information.
 
 ● Data is finally put in a tableau storyboard using correlation graphs, bar graphs and choropleth grapghs to anser 
 the defining question with a conclucion.
+[
+](https://public.tableau.com/views/UnveilingtheGlobalStoryofLifeExpectancyTrendsChallengesandOpportunities/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
