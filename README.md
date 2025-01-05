@@ -48,6 +48,6 @@ customer information.
 
 ● Data is finally put in a tableau storyboard using correlation graphs, bar graphs and choropleth grapghs to anser 
 the defining question with a conclucion.
-[
-](https://public.tableau.com/views/UnveilingtheGlobalStoryofLifeExpectancyTrendsChallengesandOpportunities/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+(https://public.tableau.com/views/UnveilingtheGlobalStoryofLifeExpectancyTrendsChallengesandOpportunities/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
